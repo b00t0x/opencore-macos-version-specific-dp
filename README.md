@@ -1,4 +1,8 @@
 # OpenCore: macOS version specific DeviceProperties
+**I made a more flexible kext for this purpose so this repo is archived.**
+
+https://github.com/b00t0x/OSIEnhancer
+
 ## What is this repository?
 In the [OpenCore](https://github.com/acidanthera/OpenCorePkg)'s config.plist, the `DeviceProperties` section doesn't have `MinKernel` / `MaxKernel`, which means you can't insert different values per macOS versions.
 

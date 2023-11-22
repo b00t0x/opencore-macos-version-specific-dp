@@ -1,4 +1,8 @@
 # OpenCore: macOS version specific DeviceProperties
+**より柔軟に設定できる kext を作成したので、このリポジトリはアーカイブされます。**
+
+https://github.com/b00t0x/OSIEnhancer
+
 ## このリポジトリは何ですか？
 [OpenCore](https://github.com/acidanthera/OpenCorePkg) の config.plist における `DeviceProperties` は、`MinKernel` / `MaxKernel` の概念を持たないため、macOS バージョンごとに異なる値を挿入することができません。
 
